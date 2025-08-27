@@ -1,0 +1,29 @@
+leftnav:
+- identifier: 19c4678d-3d3c-5f44-297b-204b08b5f657
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 10
+- identifier: a6169819-7c36-3aa0-4788-4375aae8696e
+  name: "History Behind TLL\u2019s Adaptation of the Guidelines"
+  pageRef: /pages/instructor-insights/history-behind-tll2019s-adaptation-of-the-guidelines
+  parent: 19c4678d-3d3c-5f44-297b-204b08b5f657
+  weight: 20
+- identifier: 0ff8f736-c81b-7b3b-a6bd-db010d73f209
+  name: Usefulness of the Guidelines for MIT Instructors
+  pageRef: /pages/instructor-insights/usefulness-of-the-guidelines-for-mit-instructors
+  parent: 19c4678d-3d3c-5f44-297b-204b08b5f657
+  weight: 30
+- identifier: 1d6193c2-e9a8-36f5-cdc0-3ba34c42ef04
+  name: Advantages of Sharing the Guidelines as Hypertext
+  pageRef: /pages/instructor-insights/advantages-of-sharing-the-guidelines-as-hypertext
+  parent: 19c4678d-3d3c-5f44-297b-204b08b5f657
+  weight: 40
+- identifier: e64a649b-1eae-4357-93cf-ac1931cdfd8e
+  name: Enhancing the Guidelines
+  pageRef: /pages/instructor-insights/enhancing-the-guidelines
+  parent: 19c4678d-3d3c-5f44-297b-204b08b5f657
+  weight: 50
+- identifier: 81eab0ad-400d-43d7-bfa5-cfef012ac84b
+  name: Online Publication
+  pageRef: /external-resources/online-publication_81eab0ad-400d-43d7-bfa5-cfef012ac84b
+  weight: 1000
